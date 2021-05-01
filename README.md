@@ -1,7 +1,7 @@
 # Stock-Market-Activities-School-Project
-Algonquin CST2101: Project 2
+Algonquin College CST2101: Business Intelligence Programming - Project 2
 
-This is the Second Project for CST 2101: Business Intelligence Programming.
+This is the Second Project for CST 2101: Business Intelligence Programming. The goal of the project was to build a light app with a Graphical User Interface (built using TKinter) through which one could record and search for sample stock market transactions: A date, ticker symbol, transaction (buy or sell), quantity, and price, as well as producing a statistical summary of all of those transactions. On the back end, all of the transactions were put into a database file using the SQLite library.
 
 # Design
 The program is divided into 5 python files: main, entry, display, data
